@@ -19,6 +19,7 @@ Flatpickr: For date and time selection (if required in future features).
 Select2: For enhanced select box styling.
 
 
+
 ![pic](https://github.com/hksahanagithub/Web-Dev-Task4/assets/164031728/e3e7e2c1-c45a-4ec6-9947-5eca127ed6a5)
 
 # Fig 1. Netflix Clone Home Page.
@@ -57,18 +58,18 @@ Select2: For enhanced select box styling.
 
 ![pic11](https://github.com/hksahanagithub/Web-Dev-Task4/assets/164031728/6232c3e8-ce3c-4ba0-8e69-81c8b22a4703)
 
-# Fig 11. The page displays a Recommended Movies for you on Netflix. 
+# Fig 10. The page displays a Recommended Movies for you on Netflix. 
 
 ![pic12](https://github.com/hksahanagithub/Web-Dev-Task4/assets/164031728/9bd103f3-e077-474e-aed7-073f7cede1ec)
 
-# Fig 12. The page displays Popular Movies Section with Share and Like Buttons. 
+# Fig 11. The page displays Popular Movies Section with Share and Like Buttons. 
 
 ![pic13](https://github.com/hksahanagithub/Web-Dev-Task4/assets/164031728/c27ad199-6d9e-408e-9cde-5d4f4c4e0d63)
 
-# Fig 13. The page displays a Watch Trailer option. 
+# Fig 12. The page displays a Watch Trailer option. 
 
 ![pic14](https://github.com/hksahanagithub/Web-Dev-Task4/assets/164031728/962258e6-5c41-42b8-8365-c665c43d34f9)
 
-# Fig 14. The page displays a trailer of the movie. 
+# Fig 13. The page displays a trailer of the movie. 
 
 
